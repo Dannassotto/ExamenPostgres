@@ -26,11 +26,11 @@ Este modelo representa la estructura y relaciones entre las tablas principales d
 1. Abre tu gestor SQL (como PgAdmin o terminal).
 2. Crea la base de datos:  
    ```sql
-   CREATE DATABASE techzone;
+   CREATE DATABASE dbtechzone;
    ```
 3. Conéctate a la base de datos:
    ```bash
-   \c techzone
+   \c dbtechzone
    ```
 4. Ejecuta los scripts en el siguiente orden:
 
